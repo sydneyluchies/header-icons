@@ -30,6 +30,7 @@ body {
   font-weight: bold;
   font-size: 2rem;
   color: #fff;
+  margin: 1rem;
 }
 
 ul {
@@ -52,9 +53,11 @@ ul li {
 li a {
   color: #fff;
   text-decoration: none;
+  display: block;
+  width: 100%;
 }
 
-ul li:hover {
+ul a:hover {
   background-color: #a63f38;
   border-color: #a63f38;
 }
