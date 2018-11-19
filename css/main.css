@@ -56,4 +56,5 @@ li a {
 
 ul li:hover {
   background-color: #a63f38;
+  border-color: #a63f38;
 }
